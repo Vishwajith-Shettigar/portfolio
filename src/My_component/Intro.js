@@ -60,7 +60,7 @@ function Intro() {
         </div>
         <div className="isec-1-op3">
           <span>
-            <a href="https://drive.google.com/file/d/1tDtuuImP2ay3DwgkziSGllhO0MTRzqbo/view" target="_blank">
+            <a href="https://drive.google.com/file/d/1tDtuuImP2ay3DwgkziSGllhO0MTRzqbo/view?usp=sharing" target="_blank">
             <button id="lol">Resume</button>
             </a>
           </span>
