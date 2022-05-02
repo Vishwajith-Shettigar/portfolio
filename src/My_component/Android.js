@@ -1,0 +1,54 @@
+import React from 'react'
+import './Web.css'
+function Android() {
+  return (
+    <div className='Web'>
+
+<div className='websec-1'>
+
+
+
+        <div className='webp1'>
+
+            <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPR8CsVGgBMnQhf4DAe_1aT4MjZU4ReXiGfg&usqp=CAU'/>
+            <h5>Calculator</h5>
+            <a href='https://github.com/Vishwajith-Shettigar/android_calculator'><p>Open on Github </p></a>
+        </div>
+
+        {/* <div className='webp1'>
+
+<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBgQxibVLJ60vHOfEzuvAMm20dR3OI9MfmVg&usqp=CAU'/>
+<h5>Covid Tracker Notification app</h5>
+<a href='https://github.com/Vishwajith-Shettigar/covid_tracker'><p>Open on Github </p></a>
+</div> */}
+        
+</div>
+
+
+{/* 
+
+<div className='websec-2'>
+
+
+
+        <div className='webp1'>
+
+            <img src='data:image/png;base64,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'/>
+            <h5> Snake Water Gun </h5>
+            <a href='https://github.com/Vishwajith-Shettigar/game_swg'><p>Open on Github </p></a>
+        </div>
+
+        {/* <div className='webp1'>
+
+<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_QoF4y9H41IgIEguu8I7cpo41YA_J-k3FUxh39XWZOK0pI9HBBuST4nH5jbCGpH8bVg&usqp=CAU'/>
+<h5>Dictionary Chrome Extension</h5>
+<a href='https://github.com/Vishwajith-Shettigar/Dictionary_Chrome_Extension'><p>Open on Github </p></a>
+</div>
+      *  
+</div>  */}
+
+    </div>
+  )
+}
+
+export default Android

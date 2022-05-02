@@ -1,0 +1,138 @@
+.projects{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 7%;
+}
+
+.Poejectcat{
+    margin: 30px;
+    display: flex;
+    /* border: 2px solid; */
+    width: 30%;
+  /* min-width: fit-content; */
+  align-items: center;
+   
+
+  box-shadow: 1px 2px 10px 1px #786bd4b3;
+
+  
+  align-items: center;
+  justify-content: center;
+  border-radius: 30px;
+  padding-left: 20px;
+
+  padding-right: 20px;
+}
+
+.catop{
+    /* margin: 10%; */
+    /* border: 2px solid; */
+    width: 100%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    /* background-color: rgb(13, 85, 255); */
+    /* border: 2px solid; */
+    margin-right: 1%;
+    border-radius: 30px;
+    text-decoration: none;
+   
+   
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding:5px;
+   /* background-color: aqua; */
+
+  
+
+}
+
+.catop h4{
+   font-size: large;
+}
+/* .Web{
+
+    margin-left: 1%;
+    margin-right: 2%;
+    background-color: aqua;
+}
+
+.Python{
+
+
+    margin-right: 2%;
+}
+
+.Android{
+
+    margin-left: 1%;
+    margin-right: 2%;
+} */
+
+
+.catop:hover{
+    background-color: rgb(91, 75, 228);
+    color: aliceblue;
+    
+}
+
+@media only screen and (max-width: 1013px) {
+
+    .Poejectcat{
+
+        width: 40%;
+    }
+}
+
+
+@media only screen and (max-width: 550px) {
+
+
+    .Poejectcat{
+
+        width: 70%;
+    }
+}
+
+@media only screen and (max-width: 345px) {
+
+    .Poejectcat{
+
+        width: 90%;
+        margin-left: 20%;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    
+  
+
+
+   .projects{
+       align-items: center;
+       justify-content: center;
+      
+
+   }
+
+   .catop h4{
+    font-size: large;
+ }
+ .projects h2{
+     margin-top: 20%;
+     margin-left: 19%;
+ }
+
+}
+
+
+
+@media only screen and (max-width: 280px) {
+
+    .Poejectcat{
+
+        width: 90%;
+        margin-left: 34%;
+       
+    }
+    
+}
