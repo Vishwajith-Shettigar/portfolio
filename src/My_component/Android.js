@@ -10,17 +10,17 @@ function Android() {
 
         <div className='webp1'>
 
-            <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPR8CsVGgBMnQhf4DAe_1aT4MjZU4ReXiGfg&usqp=CAU'/>
-            <h5>Calculator</h5>
-            <a href='https://github.com/Vishwajith-Shettigar/android_calculator'><p>Open on Github </p></a>
+            <img src='https://assets.www.happyfox.com/v2/images/hero-fold/IAC_Image.png'/>
+            <h5>Chat App</h5>
+            <a href='https://github.com/Vishwajith-Shettigar/androidChatApp'><p>Open on Github </p></a>
         </div>
 
-        {/* <div className='webp1'>
+        <div className='webp1'>
 
-<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBgQxibVLJ60vHOfEzuvAMm20dR3OI9MfmVg&usqp=CAU'/>
-<h5>Covid Tracker Notification app</h5>
-<a href='https://github.com/Vishwajith-Shettigar/covid_tracker'><p>Open on Github </p></a>
-</div> */}
+<img src='https://static.vecteezy.com/system/resources/previews/001/895/417/original/social-media-icons-in-smartphone-device-on-white-background-free-vector.jpg'/>
+<h5>Android social media</h5>
+<a href='https://github.com/Vishwajith-Shettigar/social_api'><p>Open on Github </p></a>
+</div>
         
 </div>
 

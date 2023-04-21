@@ -17,9 +17,9 @@ function Web() {
 
         <div className='webp1'>
 
-<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM0ra0RcpLzm2O6rw49PCpySrMwfq9xfESyQ&usqp=CAU'/>
-<h5>Pokedex</h5>
-<a href='https://github.com/Vishwajith-Shettigar/pokedex.github.io'><p>Open on Github </p></a>
+<img src='https://static.vecteezy.com/system/resources/previews/005/638/074/original/illustration-isometric-concept-safety-of-online-shopping-in-e-commerce-stores-free-vector.jpg'/>
+<h5>E-Commerce web app</h5>
+<a href='https://github.com/Vishwajith-Shettigar/E_commerce_site'><p>Open on Github </p></a>
 </div>
         
 </div>
@@ -33,16 +33,16 @@ function Web() {
 
         <div className='webp1'>
 
-            <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB1uY43n5WvP6ZsCXgKh4gSLSnYJx6B0U_CA&usqp=CAU'/>
-            <h5>postman clone</h5>
-            <a href='https://github.com/Vishwajith-Shettigar/postmanclone.github.io'><p>Open on Github </p></a>
+            <img src='https://static.vecteezy.com/system/resources/previews/001/895/417/original/social-media-icons-in-smartphone-device-on-white-background-free-vector.jpg'/>
+            <h5>Social Media</h5>
+            <a href='https://github.com/Vishwajith-Shettigar/social_client'><p>Open on Github </p></a>
         </div>
 
         <div className='webp1'>
 
-<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_QoF4y9H41IgIEguu8I7cpo41YA_J-k3FUxh39XWZOK0pI9HBBuST4nH5jbCGpH8bVg&usqp=CAU'/>
-<h5>Dictionary Chrome Extension</h5>
-<a href='https://github.com/Vishwajith-Shettigar/Dictionary_Chrome_Extension'><p>Open on Github </p></a>
+<img src='https://media.istockphoto.com/id/1139856213/vector/question-and-answer-icon-in-flat-style-discussion-speech-bubble-vector-illustration-on-white.jpg?s=612x612&w=0&k=20&c=Hb1e85oSwOZd9dxP2rcBOmhvwVMtjYSa-4mgQ1Ym8Es='/>
+<h5>QNA site</h5>
+<a href='https://github.com/Vishwajith-Shettigar/dontbeFraidSocial'><p>Open on Github </p></a>
 </div>
         
 </div>

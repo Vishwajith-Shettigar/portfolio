@@ -7,7 +7,8 @@ import Python from './Python';
 import Android from './Android';
 function Projects() {
   return (
-  <Router>
+    <Router basename="/portfolio">
+ 
     <div className='projects'>
 
 <h2>Projects</h2>
@@ -26,6 +27,7 @@ function Projects() {
         </Link>
 
 </div>
+
 
 <Routes>
           <Route
@@ -64,6 +66,7 @@ function Projects() {
 
 
 
+    
      </Router>
   )
 }

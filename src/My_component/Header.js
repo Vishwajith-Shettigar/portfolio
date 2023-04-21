@@ -22,7 +22,7 @@ function Header() {
 
   <div className='sec-2'>
 
-<li className='sec-2-op'>   <img src=' https://www.svgrepo.com/show/315691/dark-mode.svg'/>  </li>
+<li className='sec-2-op'>    </li>
 {/* <li className='sec-2-op'><a href='https://www.codechef.com/users/dark_vish' target='_blank'> <img src='https://img.icons8.com/ios/344/codechef.png' id ="codechefimg"/> Codechef</a></li>
 <li className='sec-2-op' ><a href='https://auth.geeksforgeeks.org/user/darkvish' target='_blank'> <img src=' https://img.icons8.com/color/48/000000/GeeksforGeeks.png' id="gfgimg"/> GFG</a></li> */}
 

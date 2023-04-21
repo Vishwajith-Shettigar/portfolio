@@ -7,9 +7,20 @@ import Header from '../../my-portfolio/src/My_component/Header';
 import Projects from './My_component/Projects';
 import Contact from './My_component/Contact';
 import Footer from './My_component/Footer';
+
+import {
+  BrowserRouter as Router,
+  
+  Switch,
+  Route,
+  Routes,
+  Link
+} from "react-router-dom";
 function App() {
   return (
+   
     <div className="App">
+
      <Header/>
      <Intro/>
      <Skills/>
