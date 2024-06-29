@@ -84,7 +84,7 @@ function Intro() {
 
            <Typewriter onInit={(typewriter)=>{
 
-typewriter.typeString(" Hey i am vishwajith shettigar,currently pursuing 2nd year BCA. I am passionate in developing web apps and also interested in competitive programming as well as open-source contribution.").start()}}
+typewriter.typeString(" Hey i am vishwajith shettigar,currently pursuing 2nd year MCA. I am passionate in developing web apps and also interested in competitive programming as well as open-source contribution.").start()}}
 
 />
 
